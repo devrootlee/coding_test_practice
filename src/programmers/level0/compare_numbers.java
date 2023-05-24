@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : 숫자 비교하기
+ * LEVEL : 0
+ */
 public class compare_numbers {
 
     public static int solution(int num1,int num2){

@@ -1,7 +1,7 @@
 package programmers.level0;
 
 /**
- * TITLE : 두 수의 곱
+ * TITLE : 각도기
  * LEVEL : 0
  */
 public class protractor {

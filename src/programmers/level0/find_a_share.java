@@ -1,5 +1,4 @@
 package programmers.level0;
-
 /**
  * TITLE : 몫 구하기
  * LEVEL : 0

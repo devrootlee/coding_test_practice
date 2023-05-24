@@ -9,3 +9,4 @@
 - 두 수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_two_numbers.java)
 - 두 수의 나눗셈 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/division_of_two_numbers.java)
 - 각도기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/protractor.java)
+- 짝수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_even_numbers.java)

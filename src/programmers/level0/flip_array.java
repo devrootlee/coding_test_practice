@@ -1,6 +1,4 @@
 package programmers.level0;
-
-
 /**
  * TITLE : 배열 뒤집기
  * LEVEL : 0

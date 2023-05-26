@@ -14,3 +14,4 @@
 - 양꼬치 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/lamb_skewers.java)
 - 배열자르기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/cut_array.java)
 - 점의 위치 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_location_of_a_point.java)
+- 배열 뒤집기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/flip_array.java)

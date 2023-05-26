@@ -12,3 +12,4 @@
 - 짝수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_even_numbers.java)
 - 배열의 평균값 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/average_of_array.java)
 - 양꼬치 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/lamb_skewers.java)
+- 양꼬치 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/lamb_skewers.java)

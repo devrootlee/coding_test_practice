@@ -17,3 +17,4 @@
 - 배열 뒤집기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/flip_array.java)
 - 순서쌍의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/numbers_of_ordered_pairs.java)
 - 삼각형의 완성 조건(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/conditions_for_completing_a_triangle_1.java)
+- 문자열 뒤집기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/reverse_string.java)

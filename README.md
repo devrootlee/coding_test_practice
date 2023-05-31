@@ -20,3 +20,4 @@
 - 문자열 뒤집기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/reverse_string.java)
 - 짝수 홀수 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/even_odd_number.java)
 - 배열의 유사도 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/array_similarity.java.java)
+- 중앙값 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/finding_the_median.java.java)

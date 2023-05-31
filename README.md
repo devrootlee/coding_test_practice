@@ -22,3 +22,4 @@
 - 배열의 유사도 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/array_similarity.java.java)
 - 중앙값 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/finding_the_median.java.java)
 - 배열 원소의 길이 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/length_of_array.java.java)
+- 최대값 만들기(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/create_max_1.java.java)

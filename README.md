@@ -25,3 +25,4 @@
 - 최대값 만들기(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/create_max_1.java.java)
 - 피자 나눠 먹기(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/share_a_pizza_1.java.java)
 - 피자 나눠 먹기(3) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/share_a_pizza_3.java.java)
+- 아이스 아메리카노 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ice_americano.java.java)

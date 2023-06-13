@@ -31,4 +31,5 @@
 - 모음 제거 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/vowel_removal.java)
 - 배열 두 배 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/double_the_array.java)
 - 문자열 정수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_string_integers.java)
+- 카운트 업 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/count_up.java)
 

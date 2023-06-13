@@ -27,3 +27,4 @@
 - 피자 나눠 먹기(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/share_a_pizza_2.java)
 - 피자 나눠 먹기(3) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/share_a_pizza_3.java)
 - 옷가게 할인 받기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/get_a_discount_on_a_clothing_store.java)
+- 편지 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/letter.java)

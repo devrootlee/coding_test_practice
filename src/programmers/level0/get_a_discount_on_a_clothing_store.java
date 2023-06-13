@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : 옷 가게 할인받기
+ * LEVEL : 0
+ */
 public class get_a_discount_on_a_clothing_store {
 
     public static int solution(int price) {

@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : 편지
+ * LEVEL : 0
+ */
 public class letter {
 
     public static int solution(String message){

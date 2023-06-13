@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : 모음 제거
+ * LEVEL : 0
+ */
 public class vowel_removal {
 
     public static String solution(String my_string){

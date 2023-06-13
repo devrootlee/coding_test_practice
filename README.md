@@ -29,3 +29,4 @@
 - 옷가게 할인 받기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/get_a_discount_on_a_clothing_store.java)
 - 편지 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/letter.java)
 - 모음 제거 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/vowel_removal.java)
+- 배열 두 배 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/double_the_array.java)

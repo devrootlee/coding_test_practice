@@ -38,3 +38,6 @@
 - 문자 반복 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_text_repeatedly.java)
 - 컨트롤 제트 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/control_z.java)
 - 치킨 쿠폰 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/chicken_coupon.java)
+- 문자열안에 문자열 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/string_in_string.java)
+- 아이스 아메리카노 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ice_americano.java)
+- 특정 문자 제거하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_specific_characters.java)

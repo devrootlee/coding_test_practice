@@ -46,3 +46,4 @@
 - 숨어있는 숫자의 덧셈(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/addition_of_hidden_numbers.java)
 - 제곱수 판별하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/determine_the_number_of_squares.java)
 - 세균 증식 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/bacterial_growth.java)
+- 대문자와 소문자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/uppercase_and_lowercase.java)

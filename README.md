@@ -43,3 +43,4 @@
 - 특정 문자 제거하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_specific_characters.java)
 - 머쓱이보다 키 큰 사람 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/a_person_taller_than_a_shy_person.java)
 - 자릿수 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/add_digits.java)
+- 숨어있는 숫자의 덧셈(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/addition_of_hidden_numbers.java)

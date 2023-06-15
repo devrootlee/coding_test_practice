@@ -37,3 +37,4 @@
 - n의 배수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/multiple_of_n.java)
 - 문자 반복 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_text_repeatedly.java)
 - 컨트롤 제트 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/control_z.java)
+- 치킨 쿠폰 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/chicken_coupon.java)

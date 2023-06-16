@@ -52,3 +52,4 @@
 - 짝수는 싫어요 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/I_do_not_like_even_numbers.java)
 - 암호 해독 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/decryption.java)
 - 가위 바위 보 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/rock_paper_scissors.java)
+- 개미 군단 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ant_colony.java)

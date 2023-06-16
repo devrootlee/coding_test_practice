@@ -51,3 +51,4 @@
 - 중복된 숫자 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_of_duplicate_digits.java)
 - 짝수는 싫어요 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/I_do_not_like_even_numbers.java)
 - 암호 해독 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/decryption.java)
+- 가위 바위 보 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/rock_paper_scissors.java)

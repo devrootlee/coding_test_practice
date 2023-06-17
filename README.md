@@ -54,3 +54,4 @@
 - 암호 해독 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/decryption.java)
 - 가위 바위 보 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/rock_paper_scissors.java)
 - 개미 군단 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ant_colony.java)
+- 대문자로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/change_to_upper_case.java)

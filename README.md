@@ -32,6 +32,7 @@
 - 배열 두 배 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/double_the_array.java)
 - 문자열 정수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_string_integers.java)
 - 카운트 업 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/count_up.java)
+- 카운트 다운 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/count_down.java)
 - 문자열을 정수로 변환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/convert_string_to_integer.java)
 - 공배수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/common_multiple.java)
 - n의 배수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/multiple_of_n.java)

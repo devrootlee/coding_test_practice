@@ -61,3 +61,4 @@
 - 마지막 두 원소 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/last_two_elements.java)
 - 정수 부분 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/integer_part.java)
 - 문자열로 변환 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/convert_to_string.java)
+- n 번째 원소까지 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/up_to_the_nth_element.java)

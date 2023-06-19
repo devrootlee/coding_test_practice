@@ -57,3 +57,4 @@
 - 대문자로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/change_to_upper_case.java)
 - 정수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_integer.java)
 - 문자열의 앞의 n글자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/first_n_characters_of_string.java)
+- 문자 리스트를 문자열로 변환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/convert_character_list_to_string.java)

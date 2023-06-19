@@ -56,3 +56,4 @@
 - 개미 군단 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ant_colony.java)
 - 대문자로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/change_to_upper_case.java)
 - 정수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_integer.java)
+- 문자열의 앞의 n글자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/first_n_characters_of_string.java)

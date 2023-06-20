@@ -65,3 +65,4 @@
 - 소문자로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/change_to_lower_case.java)
 - 조건에 맞게 수열 변환하기 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/converting_sequences_according_to_conditions_1.java)
 - 원소들의 곱과 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/multiplication_and_sum_of_elements.java)
+- 첫 번째로 나오는 음수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/first_negative_number.java)

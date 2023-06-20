@@ -67,3 +67,4 @@
 - 원소들의 곱과 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/multiplication_and_sum_of_elements.java)
 - 첫 번째로 나오는 음수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/first_negative_number.java)
 - 문자열의 뒤의 n글자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/last_n_characters_of_string.java)
+- 길이에 따른 연산 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/operation_along_the_length.java)

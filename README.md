@@ -69,3 +69,4 @@
 - 문자열의 뒤의 n글자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/last_n_characters_of_string.java)
 - 길이에 따른 연산 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/operation_along_the_length.java)
 - flag 에 따라 다른 값 반환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/return_different_values_depending_on_flag.java)
+- 문자열 이어 붙여 문자열 만들기  : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/concatenate_letters_to_create_a_string.java)

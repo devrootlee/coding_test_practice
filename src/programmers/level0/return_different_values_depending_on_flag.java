@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : flag 에 따라 다른 값 반환하기
+ * LEVEL : 0
+ */
 public class return_different_values_depending_on_flag {
 
     public static int solution(int a, int b, boolean flag) {

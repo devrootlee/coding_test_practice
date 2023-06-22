@@ -68,3 +68,4 @@
 - 첫 번째로 나오는 음수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/first_negative_number.java)
 - 문자열의 뒤의 n글자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/last_n_characters_of_string.java)
 - 길이에 따른 연산 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/operation_along_the_length.java)
+- flag 에 따라 다른 값 반환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/return_different_values_depending_on_flag.java)

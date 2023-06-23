@@ -76,3 +76,4 @@
 - n보다 커질 때까지 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/add_until_greater_than_n.java)
 - n개 간격의 원소들 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/elements_in_n_intervals.java)
 - 문자열 곱하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/multiply_a_string.java)
+- 공백으로 구분하기 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/separate_by_space_1.java)

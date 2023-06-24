@@ -81,3 +81,4 @@
 - rny_string : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/rny_string.java)
 - 문자열 붙여서 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_with_string.java)
 - 부분 문자열인지 확인하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/check_if_substring.java)
+- 수 조작하기 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/manipulate_the_number_1.java)

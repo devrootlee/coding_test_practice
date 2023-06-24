@@ -89,3 +89,4 @@
 - 홀짝인지 구분하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/determine_whether_a_number_is_odd_or_even.java)
 - 특정한 문자를 대문자로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/capitalize_specific_letters.java)
 - A 강조하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/a_Emphasize.java)
+- 주사위 게임 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/dice_game_1.java)

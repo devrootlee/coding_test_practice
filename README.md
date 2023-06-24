@@ -79,3 +79,4 @@
 - 공백으로 구분하기 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/separate_by_space_1.java)
 - 이어 붙인 수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_of_concatenations.java)
 - rny_string : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/rny_string.java)
+- 문자열 붙여서 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_with_string.java)

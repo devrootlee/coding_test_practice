@@ -84,3 +84,4 @@
 - 수 조작하기 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/manipulate_the_number_1.java)
 - 뒤에서 5등 위로 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/fiveth_from_the_back.java)
 - 꼬리 문자열 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/tail_string.java)
+- 원하는 문자열 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_string_you_want.java)

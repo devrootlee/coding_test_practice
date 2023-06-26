@@ -93,3 +93,4 @@
 - 부분 문자열 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/substring.java)
 - 배열의 원소만큼 추가하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/add_as_many_elements_as_array.java)
 - 접미사인지 확인하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/check_if_it_is_a_suffix.java)
+- 배열에서 문자열 대소문자 변환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/convert_string_case_in_array.java)

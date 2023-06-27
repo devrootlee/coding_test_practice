@@ -95,3 +95,4 @@
 - 접미사인지 확인하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/check_if_it_is_a_suffix.java)
 - 배열에서 문자열 대소문자 변환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/convert_string_case_in_array.java)
 - 홀수 vs 짝수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/odd_vs_even.java)
+- 배열의 길이에 따라 다른 연산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/different_operations_depending_on_the_length_of_an_array.java)

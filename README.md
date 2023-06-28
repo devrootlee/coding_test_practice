@@ -97,3 +97,4 @@
 - 홀수 vs 짝수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/odd_vs_even.java)
 - 배열의 길이에 따라 다른 연산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/different_operations_depending_on_the_length_of_an_array.java)
 - 문자열 바꿔서 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_by_replacing_the_string.java)
+- 배열 비교하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/compare_array.java)

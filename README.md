@@ -104,3 +104,4 @@
 - 5명씩 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/five_each.java)
 - 0 떼기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/off_zero.java)
 - 뒤에서 5등까지 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/from_back_to_fifth.java)
+- n의 배수 고르기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/pick_a_multiple_of_n.java)

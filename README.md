@@ -102,3 +102,4 @@
 - l로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_l.java)
 - 홀짝에 따라 다른 값 반환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/returning_different_values_depending_on_odd_or_even.java)
 - 5명씩 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/five_each.java)
+- 0 떼기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/off_zero.java)

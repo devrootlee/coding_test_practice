@@ -2,7 +2,10 @@ package programmers.level0;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * TITLE : 5명씩
+ * LEVEL : 0
+ */
 public class five_each {
     public static String[] solution(String[] names) {
 

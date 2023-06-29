@@ -100,4 +100,5 @@
 - 문자열 바꿔서 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_by_replacing_the_string.java)
 - 배열 비교하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/compare_array.java)
 - l로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_l.java)
-- 홀짝에 따라 다른 값 반환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/returning_different_values_d​Depending_on_odd_or_even.java)
+- 홀짝에 따라 다른 값 반환하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/returning_different_values_depending_on_odd_or_even.java)
+- 5명씩 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/five_each.java)

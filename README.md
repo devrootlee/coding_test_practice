@@ -110,3 +110,4 @@
 - 직각 삼각형 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_right_triangle.java)
 - 덧셈식 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/print_addition_expression.java)
 - 문자열 정렬하기(1) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sorting_strings_1.java)
+- 문자열 출력하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/printing_a_string.java)

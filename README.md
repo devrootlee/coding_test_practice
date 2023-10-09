@@ -114,3 +114,4 @@
 - a와 b 출력하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/print_a_and_b.java)
 - 문자열 반복해 출력하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/printing_a_string_repeatedly.java)
 - 대소문자 바꿔 출력하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/print_with_case_changed.java)
+- 순서 바꾸기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/change_order.java)

@@ -118,3 +118,4 @@
 - 특수문자 출력하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/print_special_characters.java)
 - 문자열 돌리기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/twist_the_string.java)
 - 문자열 겹쳐쓰기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/overwriting_strings.java)
+- 문자열 섞기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/shuffle_strings.java)

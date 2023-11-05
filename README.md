@@ -119,3 +119,5 @@
 - 문자열 돌리기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/twist_the_string.java)
 - 문자열 겹쳐쓰기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/overwriting_strings.java)
 - 문자열 섞기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/shuffle_strings.java)
+- 부분 문자열 이어 붙여 문자열 만들기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/create_a_string_by_concatenating_substrings.java)
+- 두 수의 연산값 비교하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/to_compare_two_operational_values.java)

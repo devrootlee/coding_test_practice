@@ -127,3 +127,4 @@
 - 모스부호(1) : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/morse_code1.java)
 - 구슬을 나누는 경우의 수 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/number_of_ways_to_divide_beads.java)
 - 문자열 뒤집기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/flip_string.java)
+- 세로 읽기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/vertical_reading.java)

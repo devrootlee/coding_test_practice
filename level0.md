@@ -130,3 +130,4 @@
 - 세로 읽기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/vertical_reading.java)
 - qr code : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/qr_code.java)
 - 문자 개수 세기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/counting_characters.java)
+- 글자 지우기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/erase_letters.java)

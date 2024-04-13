@@ -124,3 +124,4 @@
 - 조건 문자열 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/condition_string.java)
 - 할 일 목록 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/to_do_list.java)
 - 진료 순서 정하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/determine_the_order_of_treatment.java)
+- 모스부호(1) : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/morse_code1.java)

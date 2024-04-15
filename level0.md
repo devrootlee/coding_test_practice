@@ -132,3 +132,4 @@
 - 문자 개수 세기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/counting_characters.java)
 - 글자 지우기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/erase_letters.java)
 - 가까운 1 찾기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/find_1_near_you.java)
+- 리스트 자르기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/truncate_list.java)

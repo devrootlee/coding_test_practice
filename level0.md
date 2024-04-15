@@ -136,3 +136,4 @@
 - 배열 만들기3 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/create_an_array3.java)
 - 2의 영역 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/area_of_2.java)
 - 배열 조각하기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/sculpting_an_array.java)
+- 2차원으로 만들기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/make_it_two_dimensional.java)

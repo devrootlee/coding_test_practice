@@ -142,3 +142,4 @@
 - 합성수 찾기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/find_composite_numbers.java)
 - 팩토리얼 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/factorial.java)
 - 왼쪽 오른쪽 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/left_right.java)
+- 수열과 구간 쿼리1 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/sequence_and_interval_queries1.java)

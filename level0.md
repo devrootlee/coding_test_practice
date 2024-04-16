@@ -141,3 +141,4 @@
 - 배열 회전시키기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/rotating_an_array.java)
 - 합성수 찾기 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/find_composite_numbers.java)
 - 팩토리얼 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/factorial.java)
+- 왼쪽 오른쪽 : [solution](https://github.com/dlrms6172/programmeÅrs_coding_test_practice/blob/master/src/programmers/level0/left_right.java)

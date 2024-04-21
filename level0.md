@@ -144,3 +144,4 @@
 - 왼쪽 오른쪽 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/left_right.java)
 - 수열과 구간 쿼리1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sequence_and_interval_queries1.java)
 - 1로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_1.java)
+- 조건에 맞게 수열 변환하기 2 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/converting_sequences_according_to_conditions_2.java)

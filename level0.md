@@ -145,3 +145,5 @@
 - 수열과 구간 쿼리1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sequence_and_interval_queries1.java)
 - 1로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_1.java)
 - 조건에 맞게 수열 변환하기 2 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/converting_sequences_according_to_conditions_2.java)
+- 소인수분해 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/factorization.java)
+- 중복된 문자 제거 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_duplicate_characters.java)

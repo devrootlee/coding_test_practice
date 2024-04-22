@@ -147,3 +147,4 @@
 - 조건에 맞게 수열 변환하기 2 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/converting_sequences_according_to_conditions_2.java)
 - 소인수분해 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/factorization.java)
 - 중복된 문자 제거 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_duplicate_characters.java)
+- 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_longest_substring_ending_with_specific_string.java)

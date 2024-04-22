@@ -151,3 +151,4 @@
 - 문자열이 몇 번 등장하는지 세기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/count_how_many_times_a_string_appears.java)
 - ad 제거하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_ad.java)
 - x 사이의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_between_x.java)
+- 문자열 잘라서 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/cut_and_sort_strings.java)

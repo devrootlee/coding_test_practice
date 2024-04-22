@@ -149,3 +149,5 @@
 - 중복된 문자 제거 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_duplicate_characters.java)
 - 특정 문자열로 끝나는 가장 긴 부분 문자열 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_longest_substring_ending_with_specific_string.java)
 - 문자열이 몇 번 등장하는지 세기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/count_how_many_times_a_string_appears.java)
+- ad 제거하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_ad.java)
+- x 사이의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_between_x.java)

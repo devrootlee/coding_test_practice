@@ -152,3 +152,4 @@
 - ad 제거하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/remove_ad.java)
 - x 사이의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_between_x.java)
 - 문자열 잘라서 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/cut_and_sort_strings.java)
+- 간단한 식 계산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/evaluate_simple_expressions.java)

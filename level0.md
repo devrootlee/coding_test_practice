@@ -155,3 +155,4 @@
 - 간단한 식 계산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/evaluate_simple_expressions.java)
 - 세 개의 구분자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/three_separators.java)
 - 빈 배열에 추가, 삭제하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/adding_and_deleting_from_an_empty_array.java)
+- 배열 만들기6 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/create_an_array6.java)

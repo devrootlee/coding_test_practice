@@ -156,3 +156,4 @@
 - 세 개의 구분자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/three_separators.java)
 - 빈 배열에 추가, 삭제하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/adding_and_deleting_from_an_empty_array.java)
 - 배열 만들기6 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/create_an_array6.java)
+- 무작위로 K개의 수 뽑기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/randomly_draw_K_numbers.java)

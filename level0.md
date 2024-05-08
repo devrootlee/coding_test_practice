@@ -157,3 +157,6 @@
 - 빈 배열에 추가, 삭제하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/adding_and_deleting_from_an_empty_array.java)
 - 배열 만들기6 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/create_an_array6.java)
 - 무작위로 K개의 수 뽑기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/randomly_draw_K_numbers.java)
+- 배열의 길이를 2의 거듭제곱으로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_the_length_of_an_array_a_power_of_2.java)
+- 문자열 묶기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/string_string.java)
+- 전국 대회 선발 고사 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/national_competition_selection_test.java)

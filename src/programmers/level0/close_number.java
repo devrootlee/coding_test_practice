@@ -1,8 +1,5 @@
 package programmers.level0;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 
 /**
  * TITLE : 가까운 수

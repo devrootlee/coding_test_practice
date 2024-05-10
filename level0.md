@@ -166,3 +166,4 @@
 - 날짜 비교하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/compare_dates.java)
 - 커피 심부름 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/coffee_errands.java)
 - 그림 확대 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/enlarge_the_picture.java)
+- 특이한 이차원 배열 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/special_two_dimensional_array1.java)

@@ -165,3 +165,4 @@
 - 배열의 원소 삭제하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/deleting_elements_from_an_array.java)
 - 날짜 비교하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/compare_dates.java)
 - 커피 심부름 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/coffee_errands.java)
+- 그림 확대 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/enlarge_the_picture.java)

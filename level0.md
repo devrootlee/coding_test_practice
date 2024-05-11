@@ -167,3 +167,4 @@
 - 커피 심부름 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/coffee_errands.java)
 - 그림 확대 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/enlarge_the_picture.java)
 - 특이한 이차원 배열 1 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/special_two_dimensional_array1.java)
+- 정수를 나선형으로 배치하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/arrange_integers_in_a_spiral.java)

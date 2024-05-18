@@ -172,3 +172,4 @@
 - 정사각형으로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_square.java)
 - 이차원 배열 대각선 순회하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_square.java)
 - 369게임 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_square.java)
+- 영어가 싫어요 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/i_hate_english.java)

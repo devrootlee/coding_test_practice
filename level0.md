@@ -177,3 +177,4 @@
 - 한 번만 등장한 문자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/character_that_appears_only_once.java)
 - 약수 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/finding_divisors.java)
 - 가장 큰 수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_largest_number.java)
+- 문자열 계산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/computing_strings.java)

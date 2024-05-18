@@ -174,3 +174,5 @@
 - 369게임 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_it_square.java)
 - 영어가 싫어요 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/i_hate_english.java)
 - 인덱스 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/i_hate_english.java)
+- 한 번만 등장한 문자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/character_that_appears_only_once.java)
+- 

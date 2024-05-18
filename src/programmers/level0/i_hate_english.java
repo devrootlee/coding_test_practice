@@ -1,6 +1,4 @@
 package programmers.level0;
-
-
 /**
  * TITLE : 영어가 싫어요.
  * LEVEL : 0

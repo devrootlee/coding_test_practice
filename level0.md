@@ -179,3 +179,4 @@
 - 가장 큰 수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_largest_number.java)
 - 문자열 계산하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/computing_strings.java)
 - 숫자 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_number.java)
+- ox 퀴즈 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ox_quiz.java)

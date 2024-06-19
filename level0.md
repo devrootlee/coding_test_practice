@@ -183,3 +183,4 @@
 - 문자열 정렬하기(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sorting_strings_2.java)
 - 7의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_of_7.java)
 - 잘라서 배열로 저장하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/cut_and_save_as_array.java)
+- 직사각형 넓이 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/find_the_area_of_a_rectangle.java)

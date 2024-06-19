@@ -13,7 +13,7 @@ public class morse_code1 {
         String answer = "";
         String[] split = letter.split("\\s");
 
-        Map<String,String> morseCode = new HashMap<>(){{
+        Map<String,String> morseCode = new HashMap<String,String>(){{
             put(".-","a"); put("-...","b"); put("-.-.","c"); put("-..","d"); put(".","e"); put("..-.","f");
             put("--.","g"); put("....","h"); put("..","i"); put(".---","j"); put("-.-","k"); put(".-..","l");
             put("--","m"); put("-.","n"); put("---","o"); put(".--.","p"); put("--.-","q"); put(".-.","r");

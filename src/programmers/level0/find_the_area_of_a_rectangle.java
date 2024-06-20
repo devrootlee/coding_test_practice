@@ -1,5 +1,8 @@
 package programmers.level0;
-
+/**
+ * TITLE : 직사각형 넓이 구하기
+ * LEVEL : 0
+ */
 public class find_the_area_of_a_rectangle {
     public static int solution(int[][] dots) {
         int answer = 0;

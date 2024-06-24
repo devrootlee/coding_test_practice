@@ -189,3 +189,4 @@
 - 숨어있는 숫자의 덧셈(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/addition_of_hidden_numbers.java)
 - 안전지대 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/safe_zone.java)
 - 삼각형의 완성 조건(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/conditions_for_completing_a_triangle_2.java)
+- 외계어 사전 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/alien_language_dictionary.java)

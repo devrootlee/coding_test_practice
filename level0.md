@@ -187,3 +187,4 @@
 - 캐릭터의 좌표 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/characters_coordinates.java)
 - 다항식 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/add_polynomials.java)
 - 숨어있는 숫자의 덧셈(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/addition_of_hidden_numbers.java)
+- 안전지대 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/safe_zone.java)

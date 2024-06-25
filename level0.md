@@ -191,3 +191,4 @@
 - 삼각형의 완성 조건(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/conditions_for_completing_a_triangle_2.java)
 - 외계어 사전 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/alien_language_dictionary.java)
 - 저주의 숫자3 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/cursed_number3.java)
+- 평행 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/parallel.java)

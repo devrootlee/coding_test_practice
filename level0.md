@@ -194,3 +194,4 @@
 - 평행 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/parallel.java)
 - 겹치는 선분의 길이 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/length_of_overlapping_line_segments.java)
 - 유한 소수 판별하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/determining_finite_decimal_numbers.java)
+- 특이한 정렬 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/unusual_arrangement.java)

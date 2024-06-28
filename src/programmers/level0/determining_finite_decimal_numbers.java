@@ -3,7 +3,10 @@ package programmers.level0;
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * TITLE : 유한 소수 판별하기
+ * LEVEL : 0
+ */
 public class determining_finite_decimal_numbers {
 
     public static int solution(int a, int b) {

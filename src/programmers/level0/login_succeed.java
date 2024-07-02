@@ -1,8 +1,5 @@
 package programmers.level0;
 
-
-import java.util.Arrays;
-
 /**
  * TITLE : 로그인 성공?
  * LEVEL : 0

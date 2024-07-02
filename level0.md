@@ -198,3 +198,4 @@
 - 등수 매기기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/ranking.java)
 - 로그인 성공? : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/login_succeed.java)
 - 이진수 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/add_binary_numbers.java)
+- A로 B만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/make_a_into_b.java)

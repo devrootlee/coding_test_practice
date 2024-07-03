@@ -202,3 +202,4 @@
 - k의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/number_of_k.java)
 - 문자열 밀기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/string_push.java)
 - 종이 자르기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/paper_cutting.java)
+- 연속된 수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/level0/sum_of_consecutive_numbers.java)

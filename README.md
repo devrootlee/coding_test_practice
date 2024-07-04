@@ -11,3 +11,5 @@ codingLevel1 : [md](https://github.com/dlrms6172/programmers_coding_test_practic
 
 sqlLevel1 : [md](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/md/sql/sqlLevel1.md)
 <br>
+sqlLevel2 : [md](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/md/sql/sqlLevel2.md)
+<br>

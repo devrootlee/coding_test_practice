@@ -5,3 +5,4 @@
 - 흉부외과 또는 일반외과 의사 목록 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/print_a_list_of_thoracic_surgeons_or_general_surgeons.sql)
 - 과일로 만든 아이스크림 고르기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/choosing_ice_cream_made_from_fruit.sql)
 - 평균 일일 대여 요금 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/find_the_average_daily_rental_rate.sql)
+- 인기있는 아이스크림 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/popular_ice_cream.sql)

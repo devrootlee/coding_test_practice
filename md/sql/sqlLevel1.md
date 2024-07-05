@@ -9,3 +9,4 @@
 - 강원도에 위치한 생산공장 목록 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/print_a_list_of_production_plants_located_in_Gangwon_do.sql)
 - 12세 이하인 여자 환자 목록 출력하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/print_a_list_of_female_patients_under_12_years_of_age.sql)
 - 모든 레코드 조회하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/view_all_records.sql)
+- 역순 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/sort_in_reverse_order.sql)

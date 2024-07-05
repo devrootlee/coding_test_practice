@@ -11,3 +11,4 @@
 - 모든 레코드 조회하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/view_all_records.sql)
 - 역순 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/sort_in_reverse_order.sql)
 - 아픈 동물 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/find_sick_animals.sql)
+- Python 개발자 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/sql/sqlLevel1/find_python_developer.sql)

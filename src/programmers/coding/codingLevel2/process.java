@@ -1,7 +1,10 @@
 package programmers.coding.codingLevel2;
 
 import java.util.*;
-
+/**
+ * TITLE : 전화번호 목록
+ * LEVEL : 2
+ */
 public class process {
 
     public static int solution(int[] priorities, int location) {

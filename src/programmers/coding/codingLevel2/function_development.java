@@ -3,6 +3,10 @@ package programmers.coding.codingLevel2;
 
 import java.util.*;
 
+/**
+ * TITLE : 기능 개발
+ * LEVEL : 2
+ */
 public class function_development {
 
     public static int[] solution(int[] progresses, int[] speeds) {

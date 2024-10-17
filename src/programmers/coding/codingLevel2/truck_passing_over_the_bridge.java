@@ -1,9 +1,7 @@
 package programmers.coding.codingLevel2;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 /**
  * TITLE : 다리를 지나는 트럭

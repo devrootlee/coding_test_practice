@@ -8,3 +8,4 @@
 - 주식 가격 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel2/stock_price.java)
 - 가장 큰 수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel2/biggest_number.java)
 - H-Index : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel2/H_Index.java)
+- 소수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel2/find_prime_numbers.java)

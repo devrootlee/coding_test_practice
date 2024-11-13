@@ -8,3 +8,4 @@
 - 자릿수 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/add_digits.java)
 - 평균 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/find_the_average.java)
 - x만큼 간격이 있는 n개의 숫자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/n_numbers_spaced_apart_by_x.java)
+- 문자열을 정수로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/convert_string_to_integer.java)

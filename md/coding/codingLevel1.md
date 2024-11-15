@@ -10,3 +10,4 @@
 - x만큼 간격이 있는 n개의 숫자 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/n_numbers_spaced_apart_by_x.java)
 - 문자열을 정수로 바꾸기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/convert_string_to_integer.java)
 - 문자열 내 p와 y의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/number_of_p_and_y_in_string.java)
+- 자연수 뒤집어 배열로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/flip_natural_numbers_into_array.java)

@@ -12,3 +12,4 @@
 - 문자열 내 p와 y의 개수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/number_of_p_and_y_in_string.java)
 - 자연수 뒤집어 배열로 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/flip_natural_numbers_into_array.java)
 - 정수 내림차순으로 배치하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/sort_by_integer_in_descending_order.java)
+- 서울에서 김서방 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/find_kim_seobang_in_Seoul.java)

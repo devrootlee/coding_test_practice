@@ -15,3 +15,4 @@
 - 서울에서 김서방 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/find_kim_seobang_in_Seoul.java)
 - 콜라츠 추측 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/colatz_guess.java)
 - 음양 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/yin_yang_plus.java)
+- 핸드폰 번호 가리기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/hide_your_cell_phone_number.java)

@@ -24,3 +24,4 @@
 - 최대공약수와 최소공배수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/greatest_common_divisor_and_least_common_multiple.java)
 - 이상한 문자 만들기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/create_strange_characters.java)
 - 예산 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/budget.java)
+- 3진법 뒤집기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/ternary_reversal.java)

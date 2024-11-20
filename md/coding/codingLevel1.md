@@ -1,5 +1,4 @@
-# programmers_coding_test_practice
-**codingLevel.1**
+# codingLevel.1
 - 폰켓몬 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/phoneketmon.java)
 - 완주하지 못한 선수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/athletes_who_did_not_finish_the_race.java)
 - K번째 수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/kth_number.java)
@@ -28,3 +27,4 @@
 - 시저 암호 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/caesar_cipher.java)
 - 두 개 뽑아서 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/take_two_and_add_them.java)
 - 푸드 파이트 대회 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/food_fighting_competition.java)
+- 문자열 내 마음대로 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/sort_strings_however_you_want.java)

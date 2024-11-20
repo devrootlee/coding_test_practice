@@ -1,5 +1,4 @@
-# programmers_coding_test_practice
-**codingLevel.0**
+# codingLevel.0
 - 몫 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel0/find_a_share.java)
 - 두 수의 곱 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel0/product_of_two_numbers.java)
 - 나머지 구하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel0/find_the_rest.java)

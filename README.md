@@ -11,4 +11,4 @@
 
 - [Level 1](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/md/sql/sqlLevel1.md)
 - [Level 2](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/md/sql/sqlLevel2.md)
-- [Level 4](https://github.com/dlrms6172/programmers_c
+- [Level 4](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/md/sql/sqlLevel4.md)

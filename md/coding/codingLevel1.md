@@ -28,3 +28,4 @@
 - 두 개 뽑아서 더하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/take_two_and_add_them.java)
 - 푸드 파이트 대회 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/food_fighting_competition.java)
 - 문자열 내 마음대로 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/sort_strings_however_you_want.java)
+- 2016 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/year_2016.java)

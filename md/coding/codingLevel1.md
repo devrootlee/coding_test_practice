@@ -30,3 +30,4 @@
 - 문자열 내 마음대로 정렬하기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/sort_strings_however_you_want.java)
 - 2016 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/year_2016.java)
 - 소수 찾기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/find_prime_numbers.java)
+- 콜라 문제 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/cola_problem.java)

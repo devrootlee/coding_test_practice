@@ -33,3 +33,4 @@
 - 콜라 문제 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/cola_problem.java)
 - 명예의 전당 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/hall_of_fame.java)
 - 추억 점수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/memory_score.java)
+- 카드 뭉치 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/pack_of_card.java)

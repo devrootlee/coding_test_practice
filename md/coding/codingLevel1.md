@@ -35,3 +35,4 @@
 - 추억 점수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/memory_score.java)
 - 카드 뭉치 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/pack_of_card.java)
 - 기사단의 무기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/knights_weapon.java)
+- 과일 장수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/fruiterer.java)

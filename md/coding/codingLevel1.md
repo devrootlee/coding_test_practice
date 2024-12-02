@@ -37,3 +37,4 @@
 - 기사단의 무기 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/knights_weapon.java)
 - 과일 장수 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/fruiterer.java)
 - 옹알이(2) : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/babbling2.java)
+- 약수의 합 : [solution](https://github.com/dlrms6172/programmers_coding_test_practice/blob/master/src/programmers/coding/codingLevel1/sum_of_divisors.java)

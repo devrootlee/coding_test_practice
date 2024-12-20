@@ -44,3 +44,4 @@
 - 나누어 떨어지는 숫자 배열 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/array_of_numbers_that_fall_apart.java)
 - 없는 숫자 더하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/array_of_numbers_that_fall_apart.java)
 - 제일 작은 수 제거하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/eliminate_the_smallest_number.java)
+- 내적 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/dot_product.java)

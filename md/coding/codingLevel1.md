@@ -40,3 +40,4 @@
 - 약수의 합 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/sum_of_divisors.java)
 - 두 정수 사이의 합 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/sum_between_two_integers.java)
 - 정수 제곱근 판별 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/determine_integer_square_root.java) 
+- 하샤드 수 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/harshad_number.java)

@@ -46,3 +46,4 @@
 - 제일 작은 수 제거하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/eliminate_the_smallest_number.java)
 - 내적 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/dot_product.java)
 - 수박수박수박수박수박수? : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/C:\Users\dlrms6172\Documents\Coding_test_practice-programmers\src\codingtest\programmers\coding\codingLevel1\subaksubaksubaksubaksubaksu.java)
+- 약수의 개수와 덧셈 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/C:\Users\dlrms6172\Documents\Coding_test_practice-programmers\src\codingtest\programmers\coding\codingLevel1\number_of_factors_and_addition.java)

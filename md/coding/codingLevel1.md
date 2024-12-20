@@ -41,3 +41,4 @@
 - 두 정수 사이의 합 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/sum_between_two_integers.java)
 - 정수 제곱근 판별 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/determine_integer_square_root.java) 
 - 하샤드 수 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/harshad_number.java)
+- 나누어 떨어지는 숫자 배열 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/array_of_numbers_that_fall_apart.java)

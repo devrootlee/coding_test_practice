@@ -9,7 +9,6 @@ public class colatz_guess {
     public static int solution(long num) {
         int answer = 0;
 
-
         for (;;) {
             if (num == 1) {
                 break;
@@ -34,8 +33,8 @@ public class colatz_guess {
     }
 
     public static void main(String[] args) {
-//        solution(6);
-//        solution(16);
+        solution(6);
+        solution(16);
         solution(626331);
         solution(1);
     }

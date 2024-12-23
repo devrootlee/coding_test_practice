@@ -50,3 +50,4 @@
 - 부족한 금액 계산하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/calculate_your_shortfall.java)
 - 같은 숫자는 싫어 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/i_dont_like_same_numbers.java)
 - 크기가 작은 부분문자열 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/small_substring.java)
+- 삼총사 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/three_musketeers.java)

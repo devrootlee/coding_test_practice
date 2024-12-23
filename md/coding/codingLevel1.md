@@ -54,3 +54,4 @@
 - 가장 가까운 같은 글자 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/closest_same_letter.java)
 - 숫자 문자열과 영단어 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/numeric_strings_and_english_words.java)
 - [1차] 비밀지도 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/secret_map.java)
+- 소수 만들기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/make_prime_number.java)

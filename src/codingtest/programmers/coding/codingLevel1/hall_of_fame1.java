@@ -9,7 +9,7 @@ import java.util.List;
  * TITLE : 명예의 전당
  * LEVEL : 1
  */
-public class hall_of_fame {
+public class hall_of_fame1 {
 
     public static int[] solution(int k, int[] score) {
         List<Integer> answerList = new ArrayList<>();

@@ -31,7 +31,7 @@
 - 2016 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/year_2016.java)
 - 소수 찾기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/find_prime_numbers.java)
 - 콜라 문제 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/cola_problem.java)
-- 명예의 전당 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/hall_of_fame.java)
+- 명예의 전당(1) : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/hall_of_fame1.java)
 - 추억 점수 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/memory_score.java)
 - 카드 뭉치 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/pack_of_card.java)
 - 기사단의 무기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/knights_weapon.java)
@@ -53,3 +53,4 @@
 - 삼총사 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/three_musketeers.java)
 - 가장 가까운 같은 글자 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/closest_same_letter.java)
 - 숫자 문자열과 영단어 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/numeric_strings_and_english_words.java)
+- [1차] 비밀지도 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/secret_map.java)

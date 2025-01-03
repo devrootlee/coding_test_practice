@@ -59,3 +59,4 @@
 - 실패율 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/failure_rate.java)
 - 지폐 접기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/backnote_folding.java)
 - 다트 게임 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/dart_game.java)
+- 로또의 최고 순위와 최저 순위 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/highest_and_lowest_lotto_rankings.java)

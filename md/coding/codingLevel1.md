@@ -61,3 +61,4 @@
 - 다트 게임 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/dart_game.java)
 - 로또의 최고 순위와 최저 순위 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/highest_and_lowest_lotto_rankings.java)
 - 문자열 나누기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/split_string.java)
+- 둘만의 암호 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/our_password.java)

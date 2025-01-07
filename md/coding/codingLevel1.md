@@ -63,3 +63,4 @@
 - 문자열 나누기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/split_string.java)
 - 둘만의 암호 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/our_password.java)
 - 대충 만든 자판 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/a_roughly_made_keyboard.java)
+- 이웃한 칸 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/neighboring_khan.java)

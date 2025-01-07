@@ -1,6 +1,7 @@
 package codingtest.programmers.coding.codingLevel1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -11,34 +12,41 @@ import java.util.List;
 public class number_partner {
 
     public static String solution(String X, String Y) {
-        String answer = "";
-        List<Integer> list = new ArrayList<>();
+        StringBuilder answer = new StringBuilder();
 
-        for (int i = 0; i < X.length(); i++) {
-            int yLength = Y.length();
-            Y = Y.replaceFirst(String.valueOf(X.charAt(i)),"");
+        // 각 문자열에서 등장하는 숫자의 빈도를 저장하는 배열
+        int[] freqX = new int[10];
+        int[] freqY = new int[10];
 
-            if (yLength != Y.length()) {
-                list.add((int) X.charAt(i) - '0');
+        // X와 Y에서 각각 숫자의 등장 빈도 계산
+        for (char c : X.toCharArray()) {
+            freqX[c - '0']++;
+        }
+        for (char c : Y.toCharArray()) {
+            freqY[c - '0']++;
+        }
+
+        // 공통되는 숫자들을 찾아내고, 그 숫자의 빈도만큼 정답에 추가
+        for (int i = 9; i >= 0; i--) {
+            int commonCount = Math.min(freqX[i], freqY[i]);  // 두 문자열에서 공통된 숫자의 개수
+            for (int j = 0; j < commonCount; j++) {
+                answer.append(i);  // 숫자를 추가
             }
         }
 
-        if (list.size() == 0) {
-            list.add(-1);
+        // 결과가 빈 문자열이면 "-1" 반환
+        if (answer.length() == 0) {
+            answer.append("-1");
         }
 
-        Collections.sort(list,Collections.reverseOrder());
-
-        for (int item : list) {
-            answer += item;
+        // 0이 여러 번 나온 경우 처리
+        if (answer.charAt(0) == '0') {
+            answer.setLength(1);
         }
 
-        if (answer.charAt(0) == '0' & answer.length() > 1) {
-            answer = "0";
-        }
+//        System.out.println(answer);
 
-        System.out.println(answer);
-        return answer;
+        return answer.toString();
     }
 
     public static void main(String[] args) {

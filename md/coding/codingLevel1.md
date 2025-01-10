@@ -66,3 +66,4 @@
 - 이웃한 칸 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/neighboring_khan.java)
 - 숫자 짝궁 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/number_partner.java)
 - 햄버거 만들기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/make_hamburger.java)
+- 체육복 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/gym_clothes.java)

@@ -68,3 +68,4 @@
 - 햄버거 만들기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/make_hamburger.java)
 - 체육복 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/gym_clothes.java)
 - 크레인 인형뽑기 게임 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/crane_claw_game.java)
+- 데이터 분석 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/data_analysis.java)

@@ -72,3 +72,4 @@
 - 키패드 누르기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/pressing_the_keypad.java)
 - 성격 유형 검사하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/test_personality_type.java)
 - 신규 아이디 추천 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/new_id_recommendation.java)
+- 바탕화면 정리하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/clean_up_your_desktop.java)

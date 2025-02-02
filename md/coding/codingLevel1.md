@@ -75,3 +75,4 @@
 - 바탕화면 정리하기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/clean_up_your_desktop.java)
 - 개인정보 수집 유효기간 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/personal_information_collection_expiration_period.java)
 - 달리기 경주 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/running_race.java)
+- 공원 산책 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/walk_in_the_park.java)

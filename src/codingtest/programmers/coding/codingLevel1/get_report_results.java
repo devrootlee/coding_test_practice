@@ -1,9 +1,6 @@
 package codingtest.programmers.coding.codingLevel1;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
+import java.util.*;
 
 /**
  * TITLE : 신고 결과 받기
@@ -13,49 +10,48 @@ public class get_report_results {
 
     public static int[] solution(String[] id_list, String[] report, int k) {
         int[] answer = {};
+        //누가 누구를 신고했는지 저장
+        Map<String, Set<String>> reportHistory = new HashMap<>();
+        //각각의 사용자가 신고받은 횟수
+        Map<String, Integer> reportCount = new HashMap<>();
 
-        //유저 map
-        Map<String,Integer> idListMap = new LinkedHashMap();
-        for (String item : id_list) {
-            idListMap.put(item, 0);
-        }
+        //신고 내역 저장
+        for (String r : report) {
+            String reporter = r.split(" ")[0];
+            String reported = r.split(" ")[1];
 
-        //신고 당한 횟수 구하기
-        Map reportMap = new HashMap();
-        Map<String, Integer> reportCntMap = new HashMap();
+            //신고자 초기화
+            reportHistory.putIfAbsent(reporter, new HashSet<>());
 
-        for(String item : report) {
-            String itemArr0 = item.split(" ")[0];
-            String itemArr1 = item.split(" ")[1];
-
-            if (reportMap.get(itemArr0) == null) {
-                reportMap.put(itemArr0, itemArr1);
-                reportCntMap.put(itemArr1, reportCntMap.getOrDefault(itemArr1, 0) + 1);
-            } else if (!reportMap.get(itemArr0).equals(itemArr1)){
-                reportMap.put(itemArr0, itemArr1);
-                reportCntMap.put(itemArr1, reportCntMap.getOrDefault(itemArr1, 0) + 1);
+            //중복 신고 방지
+            if (reportHistory.get(reporter).add(reported)) {
+                reportCount.put(reported, reportCount.getOrDefault(reported, 0) +1);
             }
         }
 
-        for (Map.Entry<String, Integer> entry : reportCntMap.entrySet()) {
-            //신고당한 횟수가 k 이상인 유저 찾기
+        //정지된 유저들 생성
+        Set<String> bannedUsers = new HashSet<>();
+        for (Map.Entry<String, Integer> entry : reportCount.entrySet()) {
             if (entry.getValue() >= k) {
+                bannedUsers.add(entry.getKey());
+            }
+        }
 
-                System.out.println(entry.getKey());
-
-                for (String item : report) {
-                    String item0 = item.split(" ")[0];
-                    String item1 = item.split(" ")[1];
-
-                    if (entry.getKey().equals(item1)) {
-                        idListMap.put(item0, idListMap.getOrDefault(item0, 0) + 1);
+        answer = new int[id_list.length];
+        for (int i = 0; i < id_list.length; i++) {
+            String user = id_list[i];
+            if (reportHistory.containsKey(user)) {
+                for (String reportedUser : reportHistory.get(user)) {
+                    if (bannedUsers.contains(reportedUser)) {
+                        answer[i]++;
                     }
                 }
             }
         }
 
-        //mpa to int[]
-        answer = idListMap.values().stream().mapToInt(Integer::intValue).toArray();
+        //map to int[]
+        //answer = answerMap.values().stream().mapToInt(Integer::intValue).toArray();
+
         System.out.println(Arrays.toString(answer));
 
         return answer;

@@ -76,3 +76,5 @@
 - 개인정보 수집 유효기간 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/personal_information_collection_expiration_period.java)
 - 달리기 경주 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/running_race.java)
 - 공원 산책 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/walk_in_the_park.java)
+- 신고 결과 받기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/get_report_results.java)
+- [PCCP 기출문제] 1번/붕대 감기 : [solution](https://github.com/devrootlee/coding_test_practice/blob/master/src/codingtest/programmers/coding/codingLevel1/bandage.java)

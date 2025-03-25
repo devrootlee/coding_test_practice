@@ -1,0 +1,13 @@
+# sqlLevel.1
+- 조건에 맞는 도서 리스트 출력하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/print_a_list_of_books_that_meet_the_conditions.sql)
+- 조건에 부합하는 중고거래 댓글 조회하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/view_used_transaction_comments_that_meet_the_conditions.sql)
+- 흉부외과 또는 일반외과 의사 목록 출력하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/print_a_list_of_thoracic_surgeons_or_general_surgeons.sql)
+- 과일로 만든 아이스크림 고르기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/choosing_ice_cream_made_from_fruit.sql)
+- 평균 일일 대여 요금 구하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/find_the_average_daily_rental_rate.sql)
+- 인기있는 아이스크림 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/popular_ice_cream.sql)
+- 강원도에 위치한 생산공장 목록 출력하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/print_a_list_of_production_plants_located_in_Gangwon_do.sql)
+- 12세 이하인 여자 환자 목록 출력하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/print_a_list_of_female_patients_under_12_years_of_age.sql)
+- 모든 레코드 조회하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/view_all_records.sql)
+- 역순 정렬하기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/sort_in_reverse_order.sql)
+- 아픈 동물 찾기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/find_sick_animals.sql)
+- Python 개발자 찾기 : [solution](../../../src/codingtest/programmers/sql/sqlLevel1/find_python_developer.sql)
